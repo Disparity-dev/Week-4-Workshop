@@ -6,8 +6,8 @@
   "name": "week-4-workshop",
   "version": "1.0.0",
   "description": "coffee shop",
-  "main": "index.js",
-  "source": "jm-cafe-index.html"
+  "source": "jm-cafe-index.html",
+  
   "devDependencies": {
     "parcel": "^2.16.0"
   },
